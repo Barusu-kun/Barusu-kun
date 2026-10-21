@@ -2,9 +2,9 @@
 
 ### Engineering student | Modeling, Computer Science & Communication
 
-I am a second-year engineering student at **INSA Toulouse**, currently exploring the intersection of software development, modeling and communication.
+I am an engineering student at **INSA Toulouse**, currently exploring the intersection of software development, modeling and communication.
 
-My GitHub is where I experiment, learn by building and turn ideas into projects, from C programs and role-playing game projects to practical web experiences.
+My GitHub is where I experiment, learn by building and turn ideas into projects, from C programs to web experimentations.
 
 ## What I am working on
 
@@ -16,12 +16,11 @@ My GitHub is where I experiment, learn by building and turn ideas into projects,
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [FRPG](https://github.com/Barusu-kun/FRPG) | A role-playing game project | C |
-| [Boxing Moissagais](https://github.com/Barusu-kun/boxing-moissagais) | Website for the Boxing Moissagais association | HTML | - |
+| [FRPG](https://github.com/Barusu-kun/FRPG) | A role-playing game project | C | - |
 
 ## Technologies
 
-`C` `Git` `GitHub`
+`C` `Git` `Ada` `Python` 
 
 ## Find me online
 
