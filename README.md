@@ -1,16 +1,31 @@
-## Hi there 👋
+# Adam El Aidaoui Sierra
 
-<!--
-**Barusu-kun/Barusu-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineering student | Modeling, Computer Science & Communication
 
-Here are some ideas to get you started:
+I am a second-year engineering student at **INSA Toulouse**, currently exploring the intersection of software development, modeling and communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My GitHub is where I experiment, learn by building and turn ideas into projects, from C programs and role-playing game projects to practical web experiences.
+
+## What I am working on
+
+- Strengthening my foundations in software development and computer science
+- Building projects that combine creativity with useful, hands-on engineering
+- Exploring different ways to design, structure and communicate digital experiences
+
+## Selected projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [FRPG](https://github.com/Barusu-kun/FRPG) | A role-playing game project | C |
+| [Boxing Moissagais](https://github.com/Barusu-kun/boxing-moissagais) | Website for the Boxing Moissagais association | HTML | - |
+
+## Technologies
+
+`C` `Git` `GitHub`
+
+## Find me online
+
+- [GitHub](https://github.com/Barusu-kun)
+- [LinkedIn](https://fr.linkedin.com/in/adam-el-aidaoui-sierra)
+
+---
